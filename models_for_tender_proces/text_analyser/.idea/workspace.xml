@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="379e6f61-17a1-43a0-8f53-babfd38f6d10" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/venv/Lib/ai.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ai.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/001 Selectieleidraad Kapelstraat maatregelen wateroverlast V 4.0 def. 09-12-2016.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/001 Selectieleidraad Kapelstraat maatregelen wateroverlast V 4.0 def. 09-12-2016.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/05.001-21_Selectieleidraad_Ontsluitingsstructuur LOZ_DEF_141203 ingevuld.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/05.001-21_Selectieleidraad_Ontsluitingsstructuur LOZ_DEF_141203 ingevuld.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/073-02 document voorselectie v2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/073-02 document voorselectie v2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/1-02-1a Model Selectieleidraad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/1-02-1a Model Selectieleidraad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/15000797-1 Selectieleidraad CGD PPA + G2I R06.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/15000797-1 Selectieleidraad CGD PPA + G2I R06.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/16114-90_Aanbestedingsstukken_Selectieleidraad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/16114-90_Aanbestedingsstukken_Selectieleidraad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/180611 Selectieleidraad Centrumroute trace Hooigracht rev. 1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/180611 Selectieleidraad Centrumroute trace Hooigracht rev. 1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/20141208 Selectieleidraad Vervangen drie bruggen N327 N834R2 0 _2_ _2_ (1).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/20141208 Selectieleidraad Vervangen drie bruggen N327 N834R2 0 _2_ _2_ (1).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/2015-03-18 Groot Onderhoud Betondorp Voorselectie.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/2015-03-18 Groot Onderhoud Betondorp Voorselectie.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/20150202 Selectieleidraad v1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/20150202 Selectieleidraad v1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/20150330 Selectieleidraad Woonvisie defintief v3 d.d. 30 maart.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/20150330 Selectieleidraad Woonvisie defintief v3 d.d. 30 maart.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/20150610 RM003052 Selectieleidraad V1 0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/20150610 RM003052 Selectieleidraad V1 0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/20150717 selectiedocument sanering EMK-terrein def 2 0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/20150717 selectiedocument sanering EMK-terrein def 2 0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/20150727 Selectieleidraad MVI Leidseplein versie 4.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/20150727 Selectieleidraad MVI Leidseplein versie 4.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/20150831 403415 00 Selectieleidraad Nieuw Reijerswaard versie 1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/20150831 403415 00 Selectieleidraad Nieuw Reijerswaard versie 1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/20160615_selectieleidraad_OMOP Maaiveld Houthavens_AI Def 2016-093.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/20160615_selectieleidraad_OMOP Maaiveld Houthavens_AI Def 2016-093.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/20160624 - Selectieleidraad definitief.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/20160624 - Selectieleidraad definitief.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/20160930 Selectieleidraad definitief N244a-N246.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/20160930 Selectieleidraad definitief N244a-N246.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/2017-40-Aankondiging-Breecamp-Noord.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/2017-40-Aankondiging-Breecamp-Noord.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/2017-47-aanmelding-wrm-grahambellstraat.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/2017-47-aanmelding-wrm-grahambellstraat.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/2017-ERM-01_SeL - Selectieleidraad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/2017-ERM-01_SeL - Selectieleidraad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/20170502_Selectieleiddraad_Amstelstation.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/20170502_Selectieleiddraad_Amstelstation.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/20171115_A9H Selectieleidraad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/20171115_A9H Selectieleidraad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/2018-08_aankondiging_7_bruggen_breecamp_noord.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/2018-08_aankondiging_7_bruggen_breecamp_noord.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/20180212 DIP179-selectieleidraad definitief.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/20180212 DIP179-selectieleidraad definitief.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/20180531 417293 Selectieleidraad BRM Kickersbloem 3 fase 1 R3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/20180531 417293 Selectieleidraad BRM Kickersbloem 3 fase 1 R3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/262246 04 Selectieleidraad Hoef en Haag BRM fase 1_R2 0 (4).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/262246 04 Selectieleidraad Hoef en Haag BRM fase 1_R2 0 (4).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/2665 Selectieleidraad Roemer V3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/2665 Selectieleidraad Roemer V3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/271944-3 Selectieleidraad Dijkverbetering Noordse Dorpweg &amp; Reconstructie Noordse Dorpweg te Noorden.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/271944-3 Selectieleidraad Dijkverbetering Noordse Dorpweg &amp; Reconstructie Noordse Dorpweg te Noorden.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/31098218 Aanmeldings- en selectiedocument versie 3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/31098218 Aanmeldings- en selectiedocument versie 3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/31102751 - Aanmeldings- en selectiedocument.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/31102751 - Aanmeldings- en selectiedocument.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/31105191 Aanmeldings en selectiedocument bij inlichtingen versie NvI 29-9-2016.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/31105191 Aanmeldings en selectiedocument bij inlichtingen versie NvI 29-9-2016.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/31109072 Aanmeldings- en selectiedocument.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/31109072 Aanmeldings- en selectiedocument.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/31109597  A en S  v1.1 Definitief 20180115.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/31109597  A en S  v1.1 Definitief 20180115.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/31118167_Aanmeldings-_en_selectiedocument.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/31118167_Aanmeldings-_en_selectiedocument.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/336014 Selectieleidraad niet-openbare aanbesteding Holland Park te Diemen DEFINITIEF 2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/336014 Selectieleidraad niet-openbare aanbesteding Holland Park te Diemen DEFINITIEF 2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/356020 Selectieleidraad_D6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/356020 Selectieleidraad_D6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/4692_001.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/4692_001.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/49131_[Sweco345176-1] Selectieleidraad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/49131_[Sweco345176-1] Selectieleidraad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/694-065Selectieleidraad rectificatieWSBP  .pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/694-065Selectieleidraad rectificatieWSBP  .pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/694063001 Brainport Park - AFokkerweg selectieleidraad rectificatie 08-03-2017.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/694063001 Brainport Park - AFokkerweg selectieleidraad rectificatie 08-03-2017.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Aanbestedingsleidraad Project DOEN v1.0 4 april 2016.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Aanbestedingsleidraad Project DOEN v1.0 4 april 2016.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Aanbestedingsleidraad Selectiefase ROGO.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Aanbestedingsleidraad Selectiefase ROGO.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Aanbestedingsleidraad(5726206).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Aanbestedingsleidraad(5726206).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/B60-JST-KA-1601449_Selectieleidraad_v2.0 (2).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/B60-JST-KA-1601449_Selectieleidraad_v2.0 (2).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/BF6409R005F1.0 Selectieleidraad Reconstructie Brug Welsrijp.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/BF6409R005F1.0 Selectieleidraad Reconstructie Brug Welsrijp.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Beschrijving aanbestedingsprocedure.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Beschrijving aanbestedingsprocedure.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Beursgebied selectieleidraad def 191015.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Beursgebied selectieleidraad def 191015.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/DOCUVITP-#2054768-v2C-Selectiedocument_Hogering_Almere.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/DOCUVITP-#2054768-v2C-Selectiedocument_Hogering_Almere.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/DOS-2015-0000696 Selectieleidraad bestek N498b Groot onderhoud.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/DOS-2015-0000696 Selectieleidraad bestek N498b Groot onderhoud.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/DOS-2016-0009966 - Selectieleidraad GO N231A 2017-06-01 Def.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/DOS-2016-0009966 - Selectieleidraad GO N231A 2017-06-01 Def.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/DOS-2017-0003519-RLRN206TM Selectieleidraad 20180423.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/DOS-2017-0003519-RLRN206TM Selectieleidraad 20180423.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Elementenverharding Groot Onderhoud Selectieleidraad (1.0, definitief, 10-11-2015).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Elementenverharding Groot Onderhoud Selectieleidraad (1.0, definitief, 10-11-2015).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Herinrichting centrum Ermelo - gebied 3 - selectieleidraad - 21-4-15.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Herinrichting centrum Ermelo - gebied 3 - selectieleidraad - 21-4-15.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/IS-MA20150070_LG_Selectieleidraad reconstructie Euregioweg_20022015.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/IS-MA20150070_LG_Selectieleidraad reconstructie Euregioweg_20022015.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Leidraad Uitbreidingsplan Het Opbroek te Rijssen, Woonrijp maken Fase 3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Leidraad Uitbreidingsplan Het Opbroek te Rijssen, Woonrijp maken Fase 3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/N207b - Selectieleidraad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/N207b - Selectieleidraad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/NK 2017-04 NVI 2 selectieleidraad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/NK 2017-04 NVI 2 selectieleidraad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/R003_Selectieleidraad Gemeente Veenendaal (2).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/R003_Selectieleidraad Gemeente Veenendaal (2).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/SELECTIELEIDRAAD Centrumplan Hoogezand definitief.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/SELECTIELEIDRAAD Centrumplan Hoogezand definitief.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/SELECTIELEIDRAAD RECONSTRUCTIE  KUMMENAEDESTRAAT - KLUIS 12-05-2015.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/SELECTIELEIDRAAD RECONSTRUCTIE  KUMMENAEDESTRAAT - KLUIS 12-05-2015.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/SL01-D02-41046143-dbe - Selectieleidraad (behorend bij NVI).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/SL01-D02-41046143-dbe - Selectieleidraad (behorend bij NVI).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectiecriteria.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectiecriteria.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectiedocument Herinrichting Hoofdstraat.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectiedocument Herinrichting Hoofdstraat.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectiedocument Herinrichting en Rioolvervanging Graaf Ottoplein.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectiedocument Herinrichting en Rioolvervanging Graaf Ottoplein.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectiedocument_HIR_RV_Sonsbeek Noord.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectiedocument_HIR_RV_Sonsbeek Noord.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectiefase  Geschiktheidseisen.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectiefase  Geschiktheidseisen.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad  Zernikelaan Infra 28 juni 2018 def BAM Infra bv.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad  Zernikelaan Infra 28 juni 2018 def BAM Infra bv.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad - Niet-Openbaar Raamweg en Wassenaarseweg def.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad - Niet-Openbaar Raamweg en Wassenaarseweg def.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad - Project Kansen in Kernen (KiK) Park  Transferium  Feanwâlden - Na NvI.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad - Project Kansen in Kernen (KiK) Park  Transferium  Feanwâlden - Na NvI.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad 17-11-WN - N357 Hallum Holwerd.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad 17-11-WN - N357 Hallum Holwerd.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad 2015-P002 Nieuwegein-rf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad 2015-P002 Nieuwegein-rf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad AI 2015-077.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad AI 2015-077.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad BBB Bieslanderweg VIA2015064KA def..pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad BBB Bieslanderweg VIA2015064KA def..pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Bezuidenhout-Oost fase 1 1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Bezuidenhout-Oost fase 1 1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Bouwrijp maken De Vlierlanden - De Vlierbrink 1C Ommen.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Bouwrijp maken De Vlierlanden - De Vlierbrink 1C Ommen.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Civiele Infrastructuur CER V1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Civiele Infrastructuur CER V1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad DOS-2015-0008626 Grootschalig Onderhoud N492a.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad DOS-2015-0008626 Grootschalig Onderhoud N492a.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Definitief BT 12-03-2015.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Definitief BT 12-03-2015.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Europawijk Zuid, status definitief versie 1.1 dd 2015-04-24.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Europawijk Zuid, status definitief versie 1.1 dd 2015-04-24.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad GO de Werven.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad GO de Werven.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad GOW 2017-2020.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad GOW 2017-2020.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Groot Onderhoud Noord-Oost ring Alkmaar.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Groot Onderhoud Noord-Oost ring Alkmaar.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Herinrichting Ter Pelkwijkpark Zwolle.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Herinrichting Ter Pelkwijkpark Zwolle.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Herinrichting parkeerplaats Zacharias Tijllaan Dedemsvaart.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Herinrichting parkeerplaats Zacharias Tijllaan Dedemsvaart.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Hilaard NA NOTA VAN INLICHTINGEN.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Hilaard NA NOTA VAN INLICHTINGEN.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Inbreidingsplan De Kol, Woonrijp maken Fase 2 te Holten.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Inbreidingsplan De Kol, Woonrijp maken Fase 2 te Holten.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Innovatieroute N737.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Innovatieroute N737.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Merwedestraat DEF 20160608.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Merwedestraat DEF 20160608.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Moerwijk Noord fase 2 1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Moerwijk Noord fase 2 1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad N208 Westelijke Randweg.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad N208 Westelijke Randweg.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad N222 versie 4.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad N222 versie 4.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad N3MP.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad N3MP.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Noordeinde Herinrichting - 160521.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Noordeinde Herinrichting - 160521.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad PG West D&amp;C fase - 011-2014 v1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad PG West D&amp;C fase - 011-2014 v1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Prinses Amaliaviaduct Maasvlakte v1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Prinses Amaliaviaduct Maasvlakte v1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad RTHA GOeR V4 30 april.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad RTHA GOeR V4 30 april.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Rec. Hazerswoude-dorp West V6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Rec. Hazerswoude-dorp West V6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Reconstructie Arnhemsestraatweg, Daalhuizerweg en Nordlaan eo.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Reconstructie Arnhemsestraatweg, Daalhuizerweg en Nordlaan eo.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Reconstructie N213 (DOS-2013-0010522).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Reconstructie N213 (DOS-2013-0010522).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Rollepaal-Oost in Dedemsvaart.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Rollepaal-Oost in Dedemsvaart.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Vernieuwen Valkbrug.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Vernieuwen Valkbrug.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Vredenburghlaan DOS-2017-0009703 versie 1.5.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Vredenburghlaan DOS-2017-0009703 versie 1.5.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad WRM Sth Carré 3.2 en Mooi Werkeren 3.3, afbouw Nijenhuislaan en fietspad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad WRM Sth Carré 3.2 en Mooi Werkeren 3.3, afbouw Nijenhuislaan en fietspad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad Waterplan Heer VIA2015063KA.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad Waterplan Heer VIA2015063KA.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad aanbesteding 2e Tranche bodemsanering asbest in tuinen 'Kracht van Overijssel'.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad aanbesteding 2e Tranche bodemsanering asbest in tuinen 'Kracht van Overijssel'.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad brug langzaam verkeer v1.00 (1).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad brug langzaam verkeer v1.00 (1).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad getekend 20151208. P07013(3645933).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad getekend 20151208. P07013(3645933).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad realiseren onderdoorgang def.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad realiseren onderdoorgang def.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad versie 3.0 def.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad versie 3.0 def.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad windpark De Veenwieken v2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad windpark De Veenwieken v2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad-Niet-Openbaar v7 01-12-2017 .docx.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad-Niet-Openbaar v7 01-12-2017 .docx.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad-Overkluizing A12Malieveld.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad-Overkluizing A12Malieveld.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad_raamcontract_Gemeente_Deventer.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad_raamcontract_Gemeente_Deventer.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Selectieleidraad_v5_05122016.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Selectieleidraad_v5_05122016.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Sweco330505-1 - ARW 2016 - Selectieleidraad - DEF-v2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Sweco330505-1 - ARW 2016 - Selectieleidraad - DEF-v2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/T&amp;P-BE5646-CON002-F1.0-Selectieleidraad niet-openbare procedure.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/T&amp;P-BE5646-CON002-F1.0-Selectieleidraad niet-openbare procedure.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/T&amp;PBC4534R001F01-Selectieleidraad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/T&amp;PBC4534R001F01-Selectieleidraad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/TN154262 Selectieleidraad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/TN154262 Selectieleidraad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/Uithofslaan villapark WRM Selectieleidraad (1.0, definitief, 16-09-2016).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/Uithofslaan villapark WRM Selectieleidraad (1.0, definitief, 16-09-2016).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/definitieve leidraad herinrichting Nieuwe Markt.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/definitieve leidraad herinrichting Nieuwe Markt.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/leidraad (2).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/leidraad (2).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/leidraad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/leidraad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/negatief/selectieleidraad DOS-2015-006208 Onderhouden en verbreden parallelweg N209a.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/negatief/selectieleidraad DOS-2015-006208 Onderhouden en verbreden parallelweg N209a.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/pickle_neg" beforeDir="false" afterPath="$PROJECT_DIR$/code/pickle_neg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/pickle_pos" beforeDir="false" afterPath="$PROJECT_DIR$/code/pickle_pos" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/002 Selectieleidraad Blauwe Ader Hasseltstraat - Midden Brabantweg 20-02-2015.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/002 Selectieleidraad Blauwe Ader Hasseltstraat - Midden Brabantweg 20-02-2015.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/1-501-15 Selectieleidraad Maastunnel def.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/1-501-15 Selectieleidraad Maastunnel def.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/1483066_Selectieleidraad Stompwijkseweg.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/1483066_Selectieleidraad Stompwijkseweg.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/150518-275563-WF-DWFK-Selectieleidraad-definitief-1 0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/150518-275563-WF-DWFK-Selectieleidraad-definitief-1 0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/151126 Selectieleidraad MN.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/151126 Selectieleidraad MN.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/160314 Selectieleidraad DBO D1 0 Def.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/160314 Selectieleidraad DBO D1 0 Def.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/160324 Selectieleidraad Leeghwaterbrug A en B.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/160324 Selectieleidraad Leeghwaterbrug A en B.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/160413_401478_rap_Selectieleidraad_bestek_Ophoging_Rietvink.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/160413_401478_rap_Selectieleidraad_bestek_Ophoging_Rietvink.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/160425 Selectieleidraad GVS - D1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/160425 Selectieleidraad GVS - D1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/170069 Selectieleidraad WRM Noordboulevard.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/170069 Selectieleidraad WRM Noordboulevard.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/180501 Aanmeldingsleidraad_bij nota d.d 1 mei 2018.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/180501 Aanmeldingsleidraad_bij nota d.d 1 mei 2018.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/2. Selectieleidraad Tractaatweg  v 1.0 Definitief Bijlagen digitaal.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/2. Selectieleidraad Tractaatweg  v 1.0 Definitief Bijlagen digitaal.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/2009225A Selectieleidraad definitief  18-8-2015.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/2009225A Selectieleidraad definitief  18-8-2015.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/20150508 - GM-0160391 - Selectieleidraad D05.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/20150508 - GM-0160391 - Selectieleidraad D05.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/20150601-403156-selectieleidraad Noorderhaaks R2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/20150601-403156-selectieleidraad Noorderhaaks R2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/20150630_Selectieleidraad DEF.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/20150630_Selectieleidraad DEF.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/20150925 Selectieleidraad Natuurbrug Zeeweg Definitief.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/20150925 Selectieleidraad Natuurbrug Zeeweg Definitief.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/20151016 - 403576-doc-Selectieleidraad v2 0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/20151016 - 403576-doc-Selectieleidraad v2 0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/20151215 Selectieleidraad N235 (def).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/20151215 Selectieleidraad N235 (def).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/2016029 Selectiedocument Ontbrekende Schakel niet-openbaar DEFINITIEF.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/2016029 Selectiedocument Ontbrekende Schakel niet-openbaar DEFINITIEF.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/20160520-404429-WBS 3.2.1-Selectieleidraad-R2.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/20160520-404429-WBS 3.2.1-Selectieleidraad-R2.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/20161215 Selectieleidraad Doorgaande route Oudenbosch.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/20161215 Selectieleidraad Doorgaande route Oudenbosch.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/2017-48-aanmelding-reconstructie-punterweg.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/2017-48-aanmelding-reconstructie-punterweg.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/2018-08-03 Selectieleidraad Verdubbeling N34 - Noord - Definitief(10616084).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/2018-08-03 Selectieleidraad Verdubbeling N34 - Noord - Definitief(10616084).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/2018-NRW-CI-037_Selectieleidraad NRW_W03.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/2018-NRW-CI-037_Selectieleidraad NRW_W03.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/2018011147_E108Selectieleidraad(9911416).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/2018011147_E108Selectieleidraad(9911416).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/20180514_HB3385902_v1.0A_31126911_Aanmeldings-_en_Selectiedocument.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/20180514_HB3385902_v1.0A_31126911_Aanmeldings-_en_Selectiedocument.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/31080779 - Aanbestedingsleidraad Afsluitdijk Versie A.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/31080779 - Aanbestedingsleidraad Afsluitdijk Versie A.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/31084624 31084625 Aanmeldings-_en_selectiedocument.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/31084624 31084625 Aanmeldings-_en_selectiedocument.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/31094539 Aanmeldings- en selectiedocument NOWA v1.0 TenderNed.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/31094539 Aanmeldings- en selectiedocument NOWA v1.0 TenderNed.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/31098258 PC MN Z 16-19 - Aanmeldings- en selectiedocument.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/31098258 PC MN Z 16-19 - Aanmeldings- en selectiedocument.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/31099677 Aanmeldings- en selectiedocument v1.0 Definitief.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/31099677 Aanmeldings- en selectiedocument v1.0 Definitief.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/31100826 Aanbestedingsleidraad DBFM A16 Rotterdam versie A.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/31100826 Aanbestedingsleidraad DBFM A16 Rotterdam versie A.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/31104459 Renovatie Waalbrug Nijmegen AenS.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/31104459 Renovatie Waalbrug Nijmegen AenS.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/31108570 Aanmeldings- en selectiedocument.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/31108570 Aanmeldings- en selectiedocument.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/31108959 - Aanbestedingsleidraad versie 1 definitief.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/31108959 - Aanbestedingsleidraad versie 1 definitief.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/31109331 Aanbestedingsleidraad A9BAHO.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/31109331 Aanbestedingsleidraad A9BAHO.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/31118154 Aanmeldings- en selectiedocument v2.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/31118154 Aanmeldings- en selectiedocument v2.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/31118177 Aanmeldings- en selectiedocument GO 2019-2020 V2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/31118177 Aanmeldings- en selectiedocument GO 2019-2020 V2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/31118931 Aanmeldings- en selectiedocument v2.0 18.04.2018.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/31118931 Aanmeldings- en selectiedocument v2.0 18.04.2018.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/31122519 A en S document versie 1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/31122519 A en S document versie 1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/31130423 - AS-document DEF v2017-12-14.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/31130423 - AS-document DEF v2017-12-14.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/31131513 en 31136170 Aanmeldings- en selectiedocument GVO WNN 2019-2020.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/31131513 en 31136170 Aanmeldings- en selectiedocument GVO WNN 2019-2020.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/31137443 Aanmeldings- en selectiedocument v1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/31137443 Aanmeldings- en selectiedocument v1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/31326-CM-RHE16061901-13-COD-DEF-Reconstructie De Kanis - Selectieleidraad v2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/31326-CM-RHE16061901-13-COD-DEF-Reconstructie De Kanis - Selectieleidraad v2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/5012.Selectieleidraad Kampereilanden.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/5012.Selectieleidraad Kampereilanden.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/600.08-07-01-02 Selectieleidraad Dorpsstraat DEF 280515.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/600.08-07-01-02 Selectieleidraad Dorpsstraat DEF 280515.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/AI 2016-013 Selectieleidraad De Entree - Stationseiland 07-03-2016.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/AI 2016-013 Selectieleidraad De Entree - Stationseiland 07-03-2016.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/AI 2016-261 Selectieleidraad Weststrook dd 24102016.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/AI 2016-261 Selectieleidraad Weststrook dd 24102016.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/AI2016-144; Selectieleidraad 2 def 1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/AI2016-144; Selectieleidraad 2 def 1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Aanbestedingsleidraad BBV zaaknummer 31099977.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Aanbestedingsleidraad BBV zaaknummer 31099977.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Aanbestedingsleidraad Selectiefase_definitief.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Aanbestedingsleidraad Selectiefase_definitief.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Aanbestedingsleidraad Uitbreiding Sluis Eefde - zaak 31080779.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Aanbestedingsleidraad Uitbreiding Sluis Eefde - zaak 31080779.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Aanmeldings- en selectiedocument 081214 def.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Aanmeldings- en selectiedocument 081214 def.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Aanmeldings- en selectiedocument N18 Varsseveld-Lichtenvoorde.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Aanmeldings- en selectiedocument N18 Varsseveld-Lichtenvoorde.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Aanmeldings- en selectiedocument NST 24 mei 2016 V1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Aanmeldings- en selectiedocument NST 24 mei 2016 V1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Aanmeldings- en selectiedocument VOC 1.1 dd 030415 v. 1.1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Aanmeldings- en selectiedocument VOC 1.1 dd 030415 v. 1.1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Aanmeldings- en selectiedocument def 9 5-1-15.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Aanmeldings- en selectiedocument def 9 5-1-15.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Beschrijvend document bij niet-openbare aanbesteding selectie.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Beschrijvend document bij niet-openbare aanbesteding selectie.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/CR-443-01 Selectieleidraad_.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/CR-443-01 Selectieleidraad_.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/DOS-2014-0000767-Selectieleidraad N207 Drechtbrug_w1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/DOS-2014-0000767-Selectieleidraad N207 Drechtbrug_w1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/DOS-2016-0003544-Selectieleidraad Leidsevaartbrug_V1.1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/DOS-2016-0003544-Selectieleidraad Leidsevaartbrug_V1.1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/DOS-2016-0012675-Selectieleidraad N207 Trajectdeel 4 wegen v2.1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/DOS-2016-0012675-Selectieleidraad N207 Trajectdeel 4 wegen v2.1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Ervaringseis 1 - referentie Ontwerp en realisatie geluidsschermen Haren – Glimmen .pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Ervaringseis 1 - referentie Ontwerp en realisatie geluidsschermen Haren – Glimmen .pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/GDE01215 - Selectieleidraad definitief.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/GDE01215 - Selectieleidraad definitief.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Groot Onderhoud Wegen 2018 Zwolle - selectieleidraad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Groot Onderhoud Wegen 2018 Zwolle - selectieleidraad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Herinrichting Bloemenbuurt-Oost Selectieleidraad (1.0, definitief, 29-04-2016).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Herinrichting Bloemenbuurt-Oost Selectieleidraad (1.0, definitief, 29-04-2016).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Herinrichting Lage Gaard...pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Herinrichting Lage Gaard...pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/INFRABD4211CON004F01 Selectieleidraad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/INFRABD4211CON004F01 Selectieleidraad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/LAP1-2015001-SL Selectieleidraad Lucht- en landzijdige infrastructuur.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/LAP1-2015001-SL Selectieleidraad Lucht- en landzijdige infrastructuur.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/LW346-1-P-15-008 347-rapd-Selectieleidraad Stationsgebied Leeuwarden d d.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/LW346-1-P-15-008 347-rapd-Selectieleidraad Stationsgebied Leeuwarden d d.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/N18 DBFM Selectieleidraad (1).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/N18 DBFM Selectieleidraad (1).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/N207c - Selectieleidraad v1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/N207c - Selectieleidraad v1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/ONT-2013-001 Aanmeldings- en selectiedocument GOW 1 0 def.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/ONT-2013-001 Aanmeldings- en selectiedocument GOW 1 0 def.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Overbetuwe SELECTIELEIDRAAD_21122015.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Overbetuwe SELECTIELEIDRAAD_21122015.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/R001_Selectieleidraad niet-openbare procedure Europaweg Haarlem V5_T&amp;PBER001F01.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/R001_Selectieleidraad niet-openbare procedure Europaweg Haarlem V5_T&amp;PBER001F01.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/RWS-#2428440-v14A-A27A1_CM_Selectieleidraad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/RWS-#2428440-v14A-A27A1_CM_Selectieleidraad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/SELNOP 4 juli 2017 1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/SELNOP 4 juli 2017 1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/SV Aannemer Herenweg Gageldijk selectieleidraad 20180502 2v0(9708515).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/SV Aannemer Herenweg Gageldijk selectieleidraad 20180502 2v0(9708515).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/SWNL0225646.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/SWNL0225646.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectie gevraagde kerncompetenties Brabant Water WPB Tilburg bouw reinwaterkelder.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectie gevraagde kerncompetenties Brabant Water WPB Tilburg bouw reinwaterkelder.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectiecriteria.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectiecriteria.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectiedocument Realisatie Zuidasdok - definitief.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectiedocument Realisatie Zuidasdok - definitief.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectiedocument herinrichting Koningshoek.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectiedocument herinrichting Koningshoek.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleiddraad Fietsparkeergarage Vijfhoek.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleiddraad Fietsparkeergarage Vijfhoek.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad - Niet-Openbaar EMVI Busplatform CS versie definitief.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad - Niet-Openbaar EMVI Busplatform CS versie definitief.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad 15-25-KN Brug Tzummarumervaart.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad 15-25-KN Brug Tzummarumervaart.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad 2015-50 Grondwerk opstelterrein De Vork.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad 2015-50 Grondwerk opstelterrein De Vork.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad AI 2016-165 Wim Noordhoekkade.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad AI 2016-165 Wim Noordhoekkade.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Aannemer POS 20160425 1v0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Aannemer POS 20160425 1v0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Bezuidenhout fase 2bversie 1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Bezuidenhout fase 2bversie 1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Bloemenbuurt West (1.0, definitief, 16-09-2016).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Bloemenbuurt West (1.0, definitief, 16-09-2016).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Bredaseweg.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Bredaseweg.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad DOS-2015-0008626 Grootschalig Onderhoud N492a.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad DOS-2015-0008626 Grootschalig Onderhoud N492a.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Definitief 12-03-2015.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Definitief 12-03-2015.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Duindorp rioolvervanging 1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Duindorp rioolvervanging 1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad EA Havendijk Den Oever_S_15.0063101.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad EA Havendijk Den Oever_S_15.0063101.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad GO N218A N493A 2016-29-03 def.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad GO N218A N493A 2016-29-03 def.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Groot Onderhoud N516a.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Groot Onderhoud N516a.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad HOV Schiphol-Oost.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad HOV Schiphol-Oost.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Herinrichting Laan van Meerdervoort.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Herinrichting Laan van Meerdervoort.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Herinrichting Wijkpark de Verademing 1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Herinrichting Wijkpark de Verademing 1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Herinrichting Zuiderparklaan 1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Herinrichting Zuiderparklaan 1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Herinrichting centrum Epe 20150126.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Herinrichting centrum Epe 20150126.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Johan v. Oldebarneveltlaan 1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Johan v. Oldebarneveltlaan 1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad KV Aalsmeer 3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad KV Aalsmeer 3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad N201-fase3 17-04-15.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad N201-fase3 17-04-15.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad N211c geeft Energie %28DOS-2016-0007265%29.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad N211c geeft Energie %28DOS-2016-0007265%29.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad N216b UAV GC_def_20150115.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad N216b UAV GC_def_20150115.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad N241 Ovonde Langereis D 1 1 versie 11-03-2016 (definitief).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad N241 Ovonde Langereis D 1 1 versie 11-03-2016 (definitief).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad N522 Vervanging Brug Ouderkerk definitieve versie 27-01-2017.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad N522 Vervanging Brug Ouderkerk definitieve versie 27-01-2017.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Niet-Openbare procedure RWB West-V7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Niet-Openbare procedure RWB West-V7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Niet-openbare procedure - Spoorboog Coevorden_078137235_VD.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Niet-openbare procedure - Spoorboog Coevorden_078137235_VD.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad OCMV2 def.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad OCMV2 def.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Ontwerp en Realisatie P1 Extensie v1.0 20160518.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Ontwerp en Realisatie P1 Extensie v1.0 20160518.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad PPH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad PPH.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad RWG.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad RWG.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Raambestek 5 LR definitief v1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Raambestek 5 LR definitief v1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Raamcontract Bouverijen v1.0 (definitief).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Raamcontract Bouverijen v1.0 (definitief).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Reconstructie Rooijseweg Son en Breugel, 15 juni 2015, definitief.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Reconstructie Rooijseweg Son en Breugel, 15 juni 2015, definitief.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Reconstructie Vijfsluizen definitief.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Reconstructie Vijfsluizen definitief.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad RijnlandRoute DBM versie 1.0 dd 7 dec 2015.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad RijnlandRoute DBM versie 1.0 dd 7 dec 2015.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Rijssen.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Rijssen.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Rode Loper Contract AI 2015-029.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Rode Loper Contract AI 2015-029.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Ruijterkade West (definitief d.d. 28-09-2015).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Ruijterkade West (definitief d.d. 28-09-2015).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad SIF Deepsea.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad SIF Deepsea.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Spoorwijk fase 4 versie 1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Spoorwijk fase 4 versie 1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad V1.0 EU aanbesteding Early Works N2 Fase I-2-3 Civiel 2018.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad V1.0 EU aanbesteding Early Works N2 Fase I-2-3 Civiel 2018.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad VIJG, DEF_01-02-2016.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad VIJG, DEF_01-02-2016.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Verdubbeling N34 - Zuid - definitief 2018-06-26(10220282).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Verdubbeling N34 - Zuid - definitief 2018-06-26(10220282).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Vernieuwen Zaanbrug.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Vernieuwen Zaanbrug.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad Vijzelstraat definitief.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad Vijzelstraat definitief.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad aannemer centrumplan Haven Zevenbergen 738783 6-01-2017 def.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad aannemer centrumplan Haven Zevenbergen 738783 6-01-2017 def.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad centrumring definitief 5 dec.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad centrumring definitief 5 dec.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad chr huijgensstraat .pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad chr huijgensstraat .pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad concurrentiegerichte dialoog WZD Texel.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad concurrentiegerichte dialoog WZD Texel.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad d.d. 15-06-2018.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad d.d. 15-06-2018.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad definitief.cleaned(10363017).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad definitief.cleaned(10363017).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad fietsenstalling (definitief).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad fietsenstalling (definitief).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad nascheidingsinstallatie &amp; vergistingsinstallatie_definitief.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad nascheidingsinstallatie &amp; vergistingsinstallatie_definitief.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad reconstructie Apeldoornseweg.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad reconstructie Apeldoornseweg.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad v2.0 - ARN 2016.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad v2.0 - ARN 2016.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad- N211c geeft Energie (DOS-2016-0002342).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad- N211c geeft Energie (DOS-2016-0002342).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad-Ouderkerkerlaan Amstelveen 1.1 def. 03072018.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad-Ouderkerkerlaan Amstelveen 1.1 def. 03072018.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad90.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad90.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad_078078465_VB.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad_078078465_VB.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Selectieleidraad_definitief.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Selectieleidraad_definitief.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/TN55176 SDZ Selectieleidraad V2.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/TN55176 SDZ Selectieleidraad V2.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/TN56564 Selectieleidraad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/TN56564 Selectieleidraad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/TN57644 Selectieleidraad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/TN57644 Selectieleidraad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/Vernieuwing Leidsebrug - Selectieleidraad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/Vernieuwing Leidsebrug - Selectieleidraad.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/def Selectieleidraad - NO THW fase 4A.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/def Selectieleidraad - NO THW fase 4A.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/def Selectieleidraad Bouwrijp maken HAGA terrein 1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/def Selectieleidraad Bouwrijp maken HAGA terrein 1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/positief/selectieleidraad aannemers stadsoevers.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/positief/selectieleidraad aannemers stadsoevers.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="216mDDwJoHp7OACxlLNmA9yMYZZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rik van Ittersum\Desktop\eigen git projecten\AI projects graduation Thesis\code\positief" />
+      <recent name="C:\Users\Rik van Ittersum\Desktop\eigen git projecten\AI projects graduation Thesis\code\negatief" />
+      <recent name="C:\Users\Rik van Ittersum\Desktop\eigen git projecten\AI projects graduation Thesis\code" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ai (1)">
+    <configuration name="ai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="advies geven" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Rik van Ittersum\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ai.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="advies geven" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Rik van Ittersum\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Lib" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Rik van Ittersum\Desktop\eigen git projecten\AI projects graduation Thesis\code\ai.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ai (1)" />
+        <item itemvalue="Python.ai" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="379e6f61-17a1-43a0-8f53-babfd38f6d10" name="Default Changelist" comment="" />
+      <created>1637269792143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637269792143</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
